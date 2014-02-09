@@ -1,16 +1,22 @@
 munkireport.dev
 ===============
 
-vagrant setup for a munkireport dev site
+vagrant setup for a munkireport dev site. Only tested on Mavericks (OS X 10.9)
+
+Setup built with puphpet https://puphpet.com
 
 Prerequisites
 ---
 
-Vagrant
-VirtualBox
+* Vagrant http://www.vagrantup.com
+* VirtualBox https://www.virtualbox.org
 
-Install
+Installation
 ---
 
 Run bootstrap.sh
+
+Add ```192.168.56.101	munkireport.dev``` to /etc/hosts
+
+Visit http://munkireport.dev
 
