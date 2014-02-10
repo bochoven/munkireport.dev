@@ -10,6 +10,7 @@ Prerequisites
 
 * Vagrant http://www.vagrantup.com
 * VirtualBox https://www.virtualbox.org
+* Git http://sourceforge.net/projects/git-osx-installer/
 
 Installation
 ---
